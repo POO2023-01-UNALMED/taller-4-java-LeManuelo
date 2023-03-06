@@ -5,7 +5,7 @@ public enum Tipo {
 	
 	private int tipo_asignatura;
 
-	private Tipo(int numero1) {
-		tipo_asignatura = numero1;
+	private Tipo(int num1) {
+		tipo_asignatura = num1;
 	}
 }
